@@ -35,14 +35,14 @@ After we collected the data, organized and selected it, we started to write the 
 
 
 
-## Results
+### Results
 
 
  
 
 
                 
-### The team
+#### The team
 
 * Regina Olvera             
 * Jesús Vélez                
