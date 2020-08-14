@@ -1,12 +1,6 @@
 # Título 
 
 ## Por parte del CdeCMX Challenge
-
-nombres de los participantes:
- * Regina olvera 
- * Jesús Véles
- * Johann Baez
- 
 ## Abstract
 <div style="text-align: justify">The objective of the investigation is to link the variables based on recent studies that make a person more prone to complications if it gets infected and use geospatial data to predict and identify which geographic zones have more infections, where are happening and make a prediction of future outbreaks and their mortality.
 We took the results of a recent investigation with a sample of 177, 133 subjects on May 18th, 220 where it was observed 1, 633 with SARS-CoV-2, and 5,332 deaths to make our calculations. The principal risk factors for lethality in COVID-19 include diabetes, obesity, advanced age and immunosuppression. Those factors conferred an increased risk of hospitalization and possible intubation. 
@@ -40,6 +34,7 @@ After we collected the data, organized and selected it, we started to write the 
 
 
 
+
 ## Results
 
 
@@ -47,3 +42,8 @@ After we collected the data, organized and selected it, we started to write the 
 
 
                 
+### The team
+
+* Regina Olvera             
+* Jesús Vélez                
+* Johann Beaz
