@@ -63,7 +63,7 @@ After we collected the data, organized and selected it, we started to write the 
       <div class="col-sm-3 m-sm-auto">
         <div class="row align-items-center">
           <div class="col-4">
-            <img alt="image" class="img-fluid rounded-circle" src="./imgs/people/2.jpg">
+            <img alt="image" class="img-fluid rounded-circle" src="https://lh3.googleusercontent.com/MA5hDWNcfEiyd7m-Wwatnz7zFdHirkwqFXrdYMYRSz13rzagXjAyLyeya6ZVGjSpXD5lqsBQDkTIbeUoP2oofM3hAP0Icl_i2ufNwzu-ulwLHsvCzHDPQB7Mnb3ADna4y1Tn6dNK7MYwSpeFpFeZ_pjeH6lM_6lIkKfaFncYFHKeaJzUdlLQxp7EfRmBr7xLmzSGLHBkGRxfMURs-KGDep90L_PvI21H_nu_zdvb63bns00wCA81kU_YgPdCOP7NN3uAlDXMLxcy4k8RoPsftL3Pdf4UpTpa02_5GTY0GYSDFOXo-Zf_JPGSgf4GJTkLjgz28KJjOsF7t5isjyYLu7U5I_RzajzAnfA98ImiB5_9HX9hdukO1MfBOdIWq2nIEGb1rN6qKslDe-pnQwFojhz7RFHbIEvnoXOY69HtG4KTypsT0s4rQroH1-ua7cxgQ2eAXW77jcbkP_ID-zpipXAZ7gK6_SWMg9HMl2YsL3yXvDwKIGvMUmXeueSpe13VSsL-7fK0p8m9kkUWIu2oSboksj2wOn0ejVMgUNJ-VVmkcRMIeCsHzvekJXEgnhngSxRffH31DnmAi4xp1943PCLGueE4aBGhEFcVHOPRqypJeKhc62LKk4k6yNGQkx7gSJlOuZVtrHxOSqPJcepD4UYJoVjaQ-edLUM2A6NtKE5rANjtxxM9VN5u5hf1Hg=w995-h663-no?authuser=0">
           </div>
 
           <div class="col-8">
