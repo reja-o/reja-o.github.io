@@ -54,7 +54,6 @@ After we collected the data, organized and selected it, we started to write the 
   <div class="container">
     <div class="row text-center justify-content-center">
       <div class="col-8">
-        <h1>Team</h1>
       </div>
     </div>
 
