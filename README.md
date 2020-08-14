@@ -51,7 +51,138 @@ After we collected the data, organized and selected it, we started to write the 
 
 <div id='id5' />                
 #### The team
+<section class="fdb-block team-7">
+  <div class="container">
+    <div class="row text-center justify-content-center">
+      <div class="col-8">
+        <h1>Team</h1>
+      </div>
+    </div>
 
-* Regina Olvera             
-* Jesús Vélez                
-* Johann Beaz
+    <div class="row-70"></div>
+
+    <div class="row justify-content-center">
+      <div class="col-sm-3 m-sm-auto">
+        <div class="row align-items-center">
+          <div class="col-4">
+            <img alt="image" class="img-fluid rounded-circle" src="./imgs/people/2.jpg">
+          </div>
+
+          <div class="col-8">
+            <h3>Employee Name</h3>
+            <p>Position</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-sm-3 m-sm-auto">
+        <div class="row align-items-center">
+          <div class="col-4">
+            <img alt="image" class="img-fluid rounded-circle" src="./imgs/people/8.jpg">
+          </div>
+
+          <div class="col-8">
+            <h3>Employee Name</h3>
+            <p>Position</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-sm-3 m-sm-auto">
+        <div class="row align-items-center">
+          <div class="col-4">
+            <img alt="image" class="img-fluid rounded-circle" src="./imgs/people/6.jpg">
+          </div>
+
+          <div class="col-8">
+            <h3>Employee Name</h3>
+            <p>Position</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="row-50"></div>
+
+    <div class="row justify-content-center">
+      <div class="col-sm-3 m-sm-auto">
+        <div class="row align-items-center">
+          <div class="col-4">
+            <img alt="image" class="img-fluid rounded-circle" src="./imgs/people/4.jpg">
+          </div>
+
+          <div class="col-8">
+            <h3>Employee Name</h3>
+            <p>Position</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-3 m-sm-auto">
+        <div class="row align-items-center">
+          <div class="col-4">
+            <img alt="image" class="img-fluid rounded-circle" src="./imgs/people/1.jpg">
+          </div>
+
+          <div class="col-8">
+            <h3>Employee Name</h3>
+            <p>Position</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-sm-3 m-sm-auto">
+        <div class="row align-items-center">
+          <div class="col-4">
+            <img alt="image" class="img-fluid rounded-circle" src="./imgs/people/3.jpg">
+          </div>
+
+          <div class="col-8">
+            <h3>Employee Name</h3>
+            <p>Position</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="row-50"></div>
+
+    <div class="row justify-content-center">
+      <div class="col-sm-3 m-sm-auto">
+        <div class="row align-items-center">
+          <div class="col-4">
+            <img alt="image" class="img-fluid rounded-circle" src="./imgs/people/5.jpg">
+          </div>
+          <div class="col-8">
+            <h3>Employee Name</h3>
+            <p>Position</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-sm-3 m-sm-auto">
+        <div class="row align-items-center">
+          <div class="col-4">
+            <img alt="image" class="img-fluid rounded-circle" src="./imgs/people/9.jpg">
+          </div>
+
+          <div class="col-8">
+            <h3>Employee Name</h3>
+            <p>Position</p>
+          </div>
+        </div>
+      </div>
+ <div class="col-sm-3 m-sm-auto">
+        <div class="row align-items-center">
+          <div class="col-4">
+            <img alt="image" class="img-fluid rounded-circle" src="./imgs/people/7.jpg">
+          </div>
+
+          <div class="col-8">
+            <h3>Employee Name</h3>
+            <p>Position</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
