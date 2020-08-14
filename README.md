@@ -2,6 +2,7 @@
 
 ## Por parte del CdeCMX Challenge
 
+## *Índice*
 ### Abstract 
 <div style="text-align: justify">The objective of the investigation is to link a list of comorbidities of COVID-19 showed on recent studies that make a person more prone to complications if infected. Using geospatial data to predict and identify which geographic zones have more infections, where are happening and make a prediction of future outbreaks and mortality rates.
 We took the results of a recent investigation with a sample of 177, 133 subjects on May 18th, 220 where it was observed 1, 633 with SARS-CoV-2, and 5,332 deaths to make our calculations. The principal risk factors for lethality in COVID-19 include diabetes, obesity, advanced age and immunosuppression. Those factors conferred an increased risk of hospitalization and possible intubation. 
