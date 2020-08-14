@@ -67,7 +67,7 @@ After we collected the data, organized and selected it, we started to write the 
           </div>
 
           <div class="col-8">
-            <h4>Regina Olvera</h4>
+            <h6>Regina Olvera</h6>
           </div>
         </div>
       </div>
@@ -79,7 +79,7 @@ After we collected the data, organized and selected it, we started to write the 
           </div>
 
           <div class="col-8">
-            <h4>Johann Baez</h4>
+            <h6>Johann Baez</h6>
           </div>
         </div>
       </div>
@@ -91,7 +91,7 @@ After we collected the data, organized and selected it, we started to write the 
           </div>
 
           <div class="col-8">
-            <h4>Jesús Vélez</h4>
+            <h6>Jesús Vélez</h6>
           </div>
         </div>
       </div>
