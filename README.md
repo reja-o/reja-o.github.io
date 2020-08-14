@@ -50,7 +50,7 @@ After we collected the data, organized and selected it, we started to write the 
 
 
 <div id='id5' />                
-#### The team
+## The team
   <div class="container">
     <div class="row text-center justify-content-center">
       <div class="col-8">
@@ -67,7 +67,7 @@ After we collected the data, organized and selected it, we started to write the 
           </div>
 
           <div class="col-8">
-            <h3>Regina Olvera</h3>
+            <h4>Regina Olvera</h4>
           </div>
         </div>
       </div>
@@ -79,7 +79,7 @@ After we collected the data, organized and selected it, we started to write the 
           </div>
 
           <div class="col-8">
-            <h3>Johann Baez</h3>
+            <h4>Johann Baez</h4>
           </div>
         </div>
       </div>
@@ -91,7 +91,7 @@ After we collected the data, organized and selected it, we started to write the 
           </div>
 
           <div class="col-8">
-            <h3>Jesús Vélez</h3>
+            <h4>Jesús Vélez</h4>
           </div>
         </div>
       </div>
