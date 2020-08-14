@@ -50,7 +50,7 @@ After we collected the data, organized and selected it, we started to write the 
 
 
 <div id='id5' />                
-## The team
+### The team
   <div class="container">
     <div class="row text-center justify-content-center">
       <div class="col-8">
