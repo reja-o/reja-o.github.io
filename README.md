@@ -69,8 +69,7 @@ After we collected the data, organized and selected it, we started to write the 
           </div>
 
           <div class="col-8">
-            <h3>Employee Name</h3>
-            <p>Position</p>
+            <h3>Regina Olvera</h3>
           </div>
         </div>
       </div>
@@ -82,8 +81,7 @@ After we collected the data, organized and selected it, we started to write the 
           </div>
 
           <div class="col-8">
-            <h3>Employee Name</h3>
-            <p>Position</p>
+            <h3>Johann Baez</h3>
           </div>
         </div>
       </div>
@@ -95,8 +93,7 @@ After we collected the data, organized and selected it, we started to write the 
           </div>
 
           <div class="col-8">
-            <h3>Employee Name</h3>
-            <p>Position</p>
+            <h3>Jesús Vélez</h3>
           </div>
         </div>
       </div>
