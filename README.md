@@ -20,7 +20,7 @@ We took the results of a recent investigation with a sample of 177, 133 subjects
 
 ### Introduction         
 **What did we do?**
- <div style="text-align: justify"> We made a big search of recent studies that investigated the principal risk factors that could lead to a complicated situation for the infected people and compare each one to identify which ones could have a bigger impact in México for its conditions and the geographic zones that are more endangered by its type of population.
+<div style="text-align: justify"> We made a big search of recent studies that investigated the principal risk factors that could lead to a complicated situation for the infected people and compare each one to identify which ones could have a bigger impact in México for its conditions and the geographic zones that are more endangered by its type of population.
 After we collected the data, organized and selected it, we started to write the code that would help us to identify the endangered zones and where the last deaths and infections were.</div>  
 
 
@@ -32,9 +32,10 @@ After we collected the data, organized and selected it, we started to write the 
 
 
 <div id='id3' />
-### Analysis
+### How Did we did it?
+|
 <img alt= "graph1" src="./Grafica_1.jpg">
-   
+<div style="text-align: justify"> COdigo que buscara e hiciera un modelo para prevenir ocn datos del gobierno y con dates geo...</div>   
  
 
 
@@ -53,6 +54,7 @@ After we collected the data, organized and selected it, we started to write the 
 
 <div id='id5' />                
 ### The team
+<div class="col-12">
 <img alt="image" class="img-fluid rounded" src="./IMG-20200814-WA0001.jpg">
         <h5><strong>Regina Olvera</strong></h5>
         
