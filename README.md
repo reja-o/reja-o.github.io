@@ -22,14 +22,15 @@ We took the results of a recent investigation with a sample of 177, 133 subjects
 <div id='id2' />  
 <h3>Introduction</h3>
 <b>What did we do?</b>
-<div style="text-align: justify"> We made a big search of recent studies that investigated the principal risk factors that could lead to a complicated situation for the infected people and compare each one to identify which ones could have a bigger impact in México for its conditions and the geographic zones that are more endangered by its type of population.
+<div style="text-align: justify"> Our main question was: 
+What is the mortality rate in Mexico depending on comorbidities, sex, hospital of admision, if the patient was in ICU or not,etc. For this we made a big search of recent studies that investigated the principal risk factors that could lead to a complicated situation for the infected people and compare each one to identify which ones could have a bigger impact in México for its conditions and the geographic zones that are more endangered by its type of population.
 After we collected the data, organized and selected it, we started to write the code that would help us to identify the endangered zones and where the last deaths and infections were.</div>  
 
 
 <div id='id3' />
 <h3>The problem</h3>
 <div class="figure">
-<div style="text-align: justify"> We live in Mexico and we believe that there is not enough information about COVID-19 so we wanted to collaborate and aport information using the already existing data about coronavirus.
+<div style="text-align: justify"> We live in Mexico and we believe that there is not enough information about COVID-19 so we wanted to collaborate and aport information using the already existing data about coronavirus. 
 COVID-19 is a virus that initiated in China in December 2019. The virus travelled fast and ended up in a global pandemic. The virus is easily spread by the air and contaminated surfaces. It is highly contagious and on average it has a high death rate.</div>  
 
 
@@ -37,21 +38,30 @@ COVID-19 is a virus that initiated in China in December 2019. The virus travelle
 
 <div id='id4' />
 <h3>How Did we did it?</h3>
-<img alt= "graph1" src="./Grafica_1.jpg">
 <div style="text-align: justify"> First, we recollected geospatial data from INEGI, like sex, age, hospital of admission, etc. We combined them with the information obtained via Mexico’s government and different internet sources that together could take us to identify the main risk factors that complicate the patients with COVID-19. This all with the purpose that the two sources combined helped us generate a heatmap of Mexico. The map shows the current situation that we are living in Mexico, the death rate, the number of cases (ambulatory, confirmed and deceased), etc.
-Finally, we generated six more graphs that show different and more specific data about the condition of the population in the country (show in results).</div>   
+Finally, we generated six more graphs that show different and more specific data about the condition of the population in the country.</div>   
 Heatmap:
+
 Explanation:
 <div style="text-align: justify"> Here we mapped the results obtained from Mexico’s government about COVID-19 patients combined with data from INEGI. 
-To achieve this we created a dataset to make the information more legible so that it has more friendly access in English and Spanish. The dataset is done in Spanish but our work has been translated to English, this way it has more reproducibility.
-</div> 
+To achieve this we created a dataset to make the information more legible so that it has more friendly access in English and Spanish. The dataset is done in Spanish but our work has been translated to English, this way it has more reproducibility.</div> 
 
+Graph 1: Cases per state
+<div style="text-align: justify">Here we can see the cases per state distribution, these results can be affected by the sanitary regulations, population density, etc. This allows us to compare the decisions taken by every state and their effectiveness. 
+By deduction, we can see that those states with a high population density but a low number of cases have more effective sanitary regulations, compared to those who have low population density and a higher number of cases.</div>
 
-<div id='id5' />
-<h3>Results</h3>
+Graph 2: 
+<div style="text-align: justify">Number of accumulated cases since the start of the pandemic.
+This graph shows the accumulation of positive COVID-19 cases since the first case was detected in each state of Mexico.</div>
+
+<div style="text-align: justify"> Graph 3:
+One of the questions we asked to make our model was if the virus affects male and females equally. The next graph answers this.</div>
+<div style="text-align: justify"> In the column on the left, we can see the number of deceased patients and in the right the ones that are still alive. The color blue represents the females and the red represents the males.
+Here there are two things to notice: the virus has affected more the male population than the females. Second, if we concentrate on the lifetime distribution once infected by the virus we can see that there is no notorious difference. 
+</div>
+
 
  
-
 
 
 <div id='id6' />                
