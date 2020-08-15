@@ -52,7 +52,7 @@ After we collected the data, organized and selected it, we started to write the 
 <div id='id5' />                
 ### The team
  <div class="col-4">
-        <img alt="image" class="img-fluid rounded" src="../IMG-20200814-WA0001.jpg">
+        <img alt="image" class="img-fluid rounded" src="./IMG-20200814-WA0001.jpg">
         <h6><strong>Regina Olvera</strong></h6>
         
  <div class="col-4">
