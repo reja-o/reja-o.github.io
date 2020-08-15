@@ -1,8 +1,8 @@
-# Sectors of the population that are more affected for COVID-19 in Mexico and comorbidities that increase mortality.
+<h1>COVID-19: affected sectors of population, comorbidities and mortality</h1>
 
-## Por parte del CdeCMX Challenge
+<h2>Por parte del CdeCMX Challenge</h2>
 
-## *Table of contents*
+<h2><b>Table of contents*</b></h2>
 * [Abstract](#id1)
 * [Introduction](#id2)
 * [The problem](#id3)
