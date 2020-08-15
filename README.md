@@ -52,7 +52,7 @@ After we collected the data, organized and selected it, we started to write the 
 <div id='id5' />                
 ### The team
  <div class="col-4">
-        <img alt="image" class="img-fluid rounded" src=".https://github.com/reja-o/reja-o.github.io/commit/cbfd42f17fd8f1f292f69c8630a41b44def0dc40">
+        <img alt="image" class="img-fluid rounded" src="../IMG-20200814-WA0001.jpg">
         <h6><strong>Regina Olvera</strong></h6>
         
  <div class="col-4">
