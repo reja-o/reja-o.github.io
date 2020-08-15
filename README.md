@@ -1,4 +1,4 @@
-<h1>COVID-19: affected sectors of population, comorbidities and mortality</h1>
+<h1>Between death and life; brief inspection of SARS-CoV-2 in Mexico</h1>
 
 
 
