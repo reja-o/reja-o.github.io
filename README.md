@@ -54,21 +54,21 @@ After we collected the data, organized and selected it, we started to write the 
 <div class="row text-center mt-5">
       <div class="col-4">
         <img alt="image" class="img-fluid rounded" src="./imgs/people/9.jpg">
-        <h3><strong>John Smith</strong></h3>
+        <h6><strong>Regina Olvera</strong></h6>
         <p>Position</p>
         <p>Separated they live in Bookmarksgrove right at the coast of the Semantics.</p>
       </div>
 
       <div class="col-4">
         <img alt="image" class="img-fluid rounded" src="./imgs/people/1.jpg">
-        <h3><strong>John Smith</strong></h3>
+        <h3><strong>Jesús Vélez</strong></h3>
         <p>Position</p>
         <p>One morning, when Gregor Samsa woke from troubled dreams.</p>
       </div>
 
       <div class="col-4">
         <img alt="image" class="img-fluid rounded" src="./imgs/people/3.jpg">
-        <h3><strong>John Smith</strong></h3>
+        <h3><strong>Johann Baez</strong></h3>
         <p>Position</p>
         <p>A small river named Duden flows by their place and supplies it.</p>
       </div>
