@@ -32,7 +32,8 @@ After we collected the data, organized and selected it, we started to write the 
 
 <div id='id3' />
 ### Analysis
-
+<div class="col-12">
+        <img alt="grafica1" class="img-fluid rounded" src="./Grafica 1">
 
 
 
