@@ -52,5 +52,27 @@ After we collected the data, organized and selected it, we started to write the 
 
 <div id='id5' />                
 ### The team
-![foto de Regina](https://photos.google.com/photo/AF1QipMuKEJz1z3kL3vlnFACrQ3GkmZv2nRtxgD44xgi)
-#### Regina Olvera
+<div class="row text-center mt-5">
+      <div class="col-4">
+        <img alt="image" class="img-fluid rounded" src="./imgs/people/9.jpg">
+        <h3><strong>John Smith</strong></h3>
+        <p>Position</p>
+        <p>Separated they live in Bookmarksgrove right at the coast of the Semantics.</p>
+      </div>
+
+      <div class="col-4">
+        <img alt="image" class="img-fluid rounded" src="./imgs/people/1.jpg">
+        <h3><strong>John Smith</strong></h3>
+        <p>Position</p>
+        <p>One morning, when Gregor Samsa woke from troubled dreams.</p>
+      </div>
+
+      <div class="col-4">
+        <img alt="image" class="img-fluid rounded" src="./imgs/people/3.jpg">
+        <h3><strong>John Smith</strong></h3>
+        <p>Position</p>
+        <p>A small river named Duden flows by their place and supplies it.</p>
+      </div>
+    </div>
+  </div>
+</section>
