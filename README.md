@@ -25,14 +25,14 @@ After we collected the data, organized and selected it, we started to write the 
 
 
 <div id='id2' />
-### The problem?
+<h3>The problem?</h3>
 <div class="figure">
    <div style="text-align: justify"> Since the COVID-19 pandemic started </div>  
 
 
 
 <div id='id3' />
-### How Did we did it?
+<h3>How Did we did it?</h3>
 <img alt= "graph1" src="./Grafica_1.jpg">
 <div style="text-align: justify"> COdigo que buscara e hiciera un modelo para prevenir ocn datos del gobierno y con dates geo...</div>   
  
