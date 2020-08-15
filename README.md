@@ -22,8 +22,9 @@ We took the results of a recent investigation with a sample of 177, 133 subjects
 **What did we do?**
  <div style="text-align: justify"> We made a big search of recent studies that investigated the principal risk factors that could lead to a complicated situation for the infected people and compare each one to identify which ones could have a bigger impact in México for its conditions and the geographic zones that are more endangered by its type of population.
 After we collected the data, organized and selected it, we started to write the code that would help us to identify the endangered zones and where the last deaths and infections were.</div>  
-        <img alt="figure1" class="img-fluid rounded" src="./figure.html">
-
+ <div class="col-4">
+        <img alt="figure1" src="./figure.html">
+  
 
 
 <div id='id2' />
@@ -56,11 +57,9 @@ After we collected the data, organized and selected it, we started to write the 
         <img alt="image" class="img-fluid rounded" src="./IMG-20200814-WA0001.jpg">
         <h6><strong>Regina Olvera</strong></h6>
         
- <div class="col-4">
-        <img alt="image" class="img-fluid rounded" src="./imgs/people/1.jpg">
+ <div class="col-4">     
         <h6><strong>Jesús Vélez</strong></h6>
        
-<div class="col-4">
-        <img alt="image" class="img-fluid rounded" src="./imgs/people/3.jpg">
+<div class="col-4">     
         <h6><strong>Johann Baez</strong></h6>
         
