@@ -55,13 +55,24 @@ Graph 2:
 This graph shows the accumulation of positive COVID-19 cases since the first case was detected in each state of Mexico.</div>
 
 <div style="text-align: justify"> Graph 3:
+ 
 One of the questions we asked to make our model was if the virus affects male and females equally. The next graph answers this.</div>
 <div style="text-align: justify"> In the column on the left, we can see the number of deceased patients and in the right the ones that are still alive. The color blue represents the females and the red represents the males.
 Here there are two things to notice: the virus has affected more the male population than the females. Second, if we concentrate on the lifetime distribution once infected by the virus we can see that there is no notorious difference. 
 </div>
 
+Graph 4:
+<div style="text-align: justify">In this data, we can see that the quantity of men affected is more. Possibly because men are commonly exposed for some reason. There is no certain way for us to know.</div>
 
- 
+Graph 5:
+<div style="text-align: justify"> We already know gender does not matter in relationship with the time of death, but age does matter, mainly to the age range 40-85. This data represents the most part of cases that presented symptoms and went to the hospital.
+We discovered that the time a patient lives after contracting the virus depends on hospital care. Those who Went to the ICU (lighter colour in the graph) lived 15 days, the patients who were on normal care lived 12 days and the ambulatory patients lived 13 days. </div>
+
+Graph 6: 
+<div style="text-align: justify">By now we have classified different factor. Now we want to determine which comorbidities (illnesses) will increase the risk of death when infected with COVID-19.</div>
+
+ <div id='#id5'>
+ <h3>Results</h3>
 
 
 <div id='id6' />                
