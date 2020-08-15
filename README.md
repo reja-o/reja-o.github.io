@@ -3,21 +3,20 @@
 
 
 <h3><i>Table of contents</i></h3>
-<ol>
- <lil>[Abstract]</lil>(#id1)
- <lil>[Introduction]</lil>(#id2)
- <lil>[The problem]/lil>(#id3)<
- <lil>[How did we do it?]</lil>(#id4)
- <lil>[Results]</lil>(#id5)
- <lil>[The team]</lil>(#id6)
- </ol>
+1. [Abstract](#id1)
+2. [Introduction](#id2)
+3. [The problem](#id3)
+4. [How did we do it?](#id4)
+5. [Results](#id5)
+6. [The team](#id6)
+
 
 <div id='#id1'>
 <h3>Abstract</h3>
 <div style="text-align: justify">The objective of the investigation is to link a list of comorbidities of COVID-19 shown on recent studies that make a person more prone to complications if infected. Using geospatial data to predict and identify which geographic zones have more infections, where are happening and make a prediction of future outbreaks and mortality rates.
 We took the results of a recent investigation with a sample of 177, 133 subjects on May 18th, 220 where it was observed 1, 633 with SARS-CoV-2, and 5,332 deaths to make our calculations. The principal risk factors for lethality in COVID-19 include diabetes, obesity, advanced age and immunosuppression. Those factors conferred an increased risk of hospitalization and possible intubation. 
 </div>
-<
+
 
 
 <div id='id2' />  
