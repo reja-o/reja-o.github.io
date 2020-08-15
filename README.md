@@ -46,16 +46,16 @@ After we collected the data, organized and selected it, we started to write the 
 
 
 <div id='id4' />
-### Results
+</h3><Results></h3>
 
  
  
 
 
 <div id='id5' />                
-### The team
+</h3><The team></h3>
 <div class="col-12">
-<img alt="image" class="img-fluid rounded" src="./IMG-20200814-WA0001.jpg">
+        <img alt="image" class="img-fluid rounded" src="./IMG-20200814-WA0001.jpg">
         <h5><strong>Regina Olvera</strong></h5>
         
  <div class="col-12">     
