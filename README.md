@@ -63,7 +63,7 @@ After we collected the data, organized and selected it, we started to write the 
       <div class="col-sm-3 m-sm-auto">
         <div class="row align-items-center">
           <div class="col-4">
-            <img alt="image" class="img-fluid rounded-circle" src"./photos.app.goo.gl/iC7pjru1T1v2XR9W8>
+            <img alt="image" class="img-fluid rounded-circle" src".photos.app.goo.gl/iC7pjru1T1v2XR9W8>
           </div>
 
           <div class="col-8">
