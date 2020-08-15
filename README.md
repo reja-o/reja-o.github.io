@@ -12,7 +12,7 @@ We took the results of a recent investigation with a sample of 177, 133 subjects
 ## *Table of contents*
 * [Introduction](#id1)
 * [The problem](#id2)
-* [Analysis](#id3)
+* [How did we do it?](#id3)
 * [Results](#id4)
 * [The team](#id5)
 <div id='id1' />  
@@ -25,9 +25,10 @@ After we collected the data, organized and selected it, we started to write the 
 
 
 <div id='id2' />
-<h3>The problem?</h3>
+<h3>The problem</h3>
 <div class="figure">
-   <div style="text-align: justify"> Since the COVID-19 pandemic started </div>  
+<div style="text-align: justify"> We live in Mexico and we believe that there is not enough information about COVID-19 so we wanted to collaborate and aport information using the already existing data about coronavirus.
+COVID-19 is a virus that initiated in China in December 2019. The virus travelled fast and ended up in a global pandemic. The virus is easily spread by the air and contaminated surfaces. It is highly contagious and on average it has a high death rate.</div>  
 
 
 
