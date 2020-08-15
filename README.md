@@ -33,7 +33,6 @@ After we collected the data, organized and selected it, we started to write the 
 
 <div id='id3' />
 ### How Did we did it?
-|
 <img alt= "graph1" src="./Grafica_1.jpg">
 <div style="text-align: justify"> COdigo que buscara e hiciera un modelo para prevenir ocn datos del gobierno y con dates geo...</div>   
  
@@ -46,14 +45,14 @@ After we collected the data, organized and selected it, we started to write the 
 
 
 <div id='id4' />
-</h3><Results></h3>
+<h3>Results</h3>
 
  
  
 
 
 <div id='id5' />                
-</h3><The team></h3>
+<h3>The team</h3>
 <div class="col-12">
         <img alt="image" class="img-fluid rounded" src="./IMG-20200814-WA0001.jpg">
         <h5><strong>Regina Olvera</strong></h5>
