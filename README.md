@@ -38,14 +38,9 @@ COVID-19 is a virus that initiated in China in December 2019. The virus travelle
 <div id='id4' />
 <h3>How Did we did it?</h3>
 <img alt= "graph1" src="./Grafica_1.jpg">
-<div style="text-align: justify"> COdigo que buscara e hiciera un modelo para prevenir ocn datos del gobierno y con dates geo...</div>   
+<div style="text-align: justify"> First, we recollected geospatial data from INEGI, like sex, age, hospital of admission, etc. We combined them with the information obtained via Mexico’s government and different internet sources that together could take us to identify the main risk factors that complicate the patients with COVID-19. This all with the purpose that the two sources combined helped us generate a heatmap of Mexico. The map shows the current situation that we are living in Mexico, the death rate, the number of cases (ambulatory, confirmed and deceased), etc.
+Finally, we generated six more graphs that show different and more specific data about the condition of the population in the country (show in results).</div>   
  
-
-
-
-
-
-
 
 
 <div id='id5' />
