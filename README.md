@@ -51,7 +51,8 @@ After we collected the data, organized and selected it, we started to write the 
 
 <div id='id5' />                
 ### The team
-![imagen regina](https://lh3.googleusercontent.com/byPtZQdAmQwIEdePsVzlR9AjPmokonN8zkEV9jOFmYzzvDiEctCliXVts1sBt_s6y5H7L3uOr2GWfsv2K6URAulALl493BRQnjWCgtUcsWUAaeb3H9hjuPvBHixBByBjoYkKLlELJ83QwNXJfwV7FTkPQExOJ0HVpHsxdrQzmgXLADLdm_FJE2sJH8zbcPGlGMn3Qi_YJY1WzqeMptQ-IOA3675iVKrPsWVtqgljFJDqIaLl1yqAUjU-xay4xBbm2WvQaU6rgkpgjQhZ7u55tGvUc2UHTaAiiD_BOORfGmNj__lYZ3znD0rVzq_qKp10bu073qyhZ1IqRGbLyI2kA1U-IWAfp0GZBsd0UG_frkHwHP8BJ6-UkXSQdMncp-8C1dV7OPlU6sbRyFdMbs8lLQqnWPdj13IHPp-Ds4B4echuVNlz5imIP99HZkskMSEJwbtuCDA0WMFkkpC5nQgQkuin8H-VMfNxLadRhSOO9XCCIj9xx0PZ8-mexl_d-CzNwAp6FPAD7I-9E0ca1SuCeXhOS8bSsoSYqd15owsm-5SB_XDOfrGe9dKa1Ykx8yVHE279Nb5fL310n1pZ8kK6-IrYQLuWjJ6ngbqcLWv_kGyKnDY8QI8dZt1x4H1uZOC_jecjqTIjXlBG3TjP6RsLJYUwhhKezWytnN3q-Wt5v3FCLgUHtGm6AZ8_EcJ1Kg=s135-no?authuser=0)
+ <div class="col-4">
+        <img alt="image" class="img-fluid rounded" src=".https://lh3.googleusercontent.com/byPtZQdAmQwIEdePsVzlR9AjPmokonN8zkEV9jOFmYzzvDiEctCliXVts1sBt_s6y5H7L3uOr2GWfsv2K6URAulALl493BRQnjWCgtUcsWUAaeb3H9hjuPvBHixBByBjoYkKLlELJ83QwNXJfwV7FTkPQExOJ0HVpHsxdrQzmgXLADLdm_FJE2sJH8zbcPGlGMn3Qi_YJY1WzqeMptQ-IOA3675iVKrPsWVtqgljFJDqIaLl1yqAUjU-xay4xBbm2WvQaU6rgkpgjQhZ7u55tGvUc2UHTaAiiD_BOORfGmNj__lYZ3znD0rVzq_qKp10bu073qyhZ1IqRGbLyI2kA1U-IWAfp0GZBsd0UG_frkHwHP8BJ6-UkXSQdMncp-8C1dV7OPlU6sbRyFdMbs8lLQqnWPdj13IHPp-Ds4B4echuVNlz5imIP99HZkskMSEJwbtuCDA0WMFkkpC5nQgQkuin8H-VMfNxLadRhSOO9XCCIj9xx0PZ8-mexl_d-CzNwAp6FPAD7I-9E0ca1SuCeXhOS8bSsoSYqd15owsm-5SB_XDOfrGe9dKa1Ykx8yVHE279Nb5fL310n1pZ8kK6-IrYQLuWjJ6ngbqcLWv_kGyKnDY8QI8dZt1x4H1uZOC_jecjqTIjXlBG3TjP6RsLJYUwhhKezWytnN3q-Wt5v3FCLgUHtGm6AZ8_EcJ1Kg=s135-no?authuser=0">
         <h6><strong>Regina Olvera</strong></h6>
         
  <div class="col-4">
