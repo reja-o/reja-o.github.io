@@ -1,8 +1,8 @@
 <h1>COVID-19: affected sectors of population, comorbidities and mortality</h1>
 
-<h2>Por parte del CdeCMX Challenge</h2>
 
-<h2><b>Table of contents*</b></h2>
+
+<h3><i>Table of contents</i></h3>
 * [Abstract](#id1)
 * [Introduction](#id2)
 * [The problem](#id3)
@@ -15,8 +15,7 @@
 <div style="text-align: justify">The objective of the investigation is to link a list of comorbidities of COVID-19 shown on recent studies that make a person more prone to complications if infected. Using geospatial data to predict and identify which geographic zones have more infections, where are happening and make a prediction of future outbreaks and mortality rates.
 We took the results of a recent investigation with a sample of 177, 133 subjects on May 18th, 220 where it was observed 1, 633 with SARS-CoV-2, and 5,332 deaths to make our calculations. The principal risk factors for lethality in COVID-19 include diabetes, obesity, advanced age and immunosuppression. Those factors conferred an increased risk of hospitalization and possible intubation. 
 </div>
-
-
+<
 
 
 <div id='id2' />  
@@ -31,6 +30,7 @@ After we collected the data, organized and selected it, we started to write the 
 <div class="figure">
 <div style="text-align: justify"> We live in Mexico and we believe that there is not enough information about COVID-19 so we wanted to collaborate and aport information using the already existing data about coronavirus.
 COVID-19 is a virus that initiated in China in December 2019. The virus travelled fast and ended up in a global pandemic. The virus is easily spread by the air and contaminated surfaces. It is highly contagious and on average it has a high death rate.</div>  
+
 
 
 
@@ -51,7 +51,7 @@ COVID-19 is a virus that initiated in China in December 2019. The virus travelle
 <h3>Results</h3>
 
  
- 
+
 
 
 <div id='id6' />                
@@ -66,3 +66,4 @@ COVID-19 is a virus that initiated in China in December 2019. The virus travelle
 <div class="col-12">     
         <h5><strong>Johann Baez</strong></h5>
         
+<h2>Por parte del CdeCMX Challenge</h2>
