@@ -3,12 +3,14 @@
 
 
 <h3><i>Table of contents</i></h3>
-* [Abstract](#id1)
-* [Introduction](#id2)
-* [The problem](#id3)
-* [How did we do it?](#id4)
-* [Results](#id5)
-* [The team](#id6)
+<ol>
+ <lil>[Abstract]</lil>(#id1)
+ <lil>[Introduction]</lil>(#id2)
+ <lil>[The problem]/lil>(#id3)<
+ <lil>[How did we do it?]</lil>(#id4)
+ <lil>[Results]</lil>(#id5)
+ <lil>[The team]</lil>(#id6)
+ </ol>
 
 <div id='#id1'>
 <h3>Abstract</h3>
