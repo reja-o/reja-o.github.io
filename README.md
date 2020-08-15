@@ -53,24 +53,14 @@ After we collected the data, organized and selected it, we started to write the 
 ### The team
 <div class="row text-center mt-5">
       <div class="col-4">
-        <img alt="image" class="img-fluid rounded" src="./imgs/people/9.jpg">
+        <img alt="image" class="img-fluid rounded" src=".https://photos.google.com/search/_m8_Favoritas/photo/AF1QipOAQoyHIYQSLgy2nDSWj9ABw0POb9lkiMBZK6WI">
         <h6><strong>Regina Olvera</strong></h6>
-        <p>Position</p>
-        <p>Separated they live in Bookmarksgrove right at the coast of the Semantics.</p>
-      </div>
+        
  <div class="col-4">
         <img alt="image" class="img-fluid rounded" src="./imgs/people/1.jpg">
         <h6><strong>Jesús Vélez</strong></h6>
-        <p>Position</p>
-        <p>One morning, when Gregor Samsa woke from troubled dreams.</p>
-      </div>
-
+       
 <div class="col-4">
         <img alt="image" class="img-fluid rounded" src="./imgs/people/3.jpg">
         <h6><strong>Johann Baez</strong></h6>
-        <p>Position</p>
-        <p>A small river named Duden flows by their place and supplies it.</p>
-      </div>
-    </div>
-  </div>
-</section>
+        
