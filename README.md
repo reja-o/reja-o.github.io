@@ -26,7 +26,8 @@ After we collected the data, organized and selected it, we started to write the 
 
 <div id='id2' />
 ### The problem?
-<div style="text-align: justify"> Since the COVID-19 pandemic started </div>  
+<div class="figure">
+   <div style="text-align: justify"> Since the COVID-19 pandemic started </div>  
 
 
 
@@ -52,8 +53,7 @@ After we collected the data, organized and selected it, we started to write the 
 
 <div id='id5' />                
 ### The team
-<div class="col-12">
-        <img alt="image" class="img-fluid rounded" src="./IMG-20200814-WA0001.jpg">
+<img alt="image" class="img-fluid rounded" src="./IMG-20200814-WA0001.jpg">
         <h5><strong>Regina Olvera</strong></h5>
         
  <div class="col-12">     
