@@ -72,8 +72,7 @@ Graph 6:
 
  <div id='#id5'>
  <h3>Results</h3>
-<a href="https://github.com/reja-o/reja-o.github.io/blob/master/figures/comorbidity_importance_without-pneumonia.html">Modelo final</a>
-<div id='id6' />                
+All code available [here](https://github.com/jvelez-s/cdmx_challenge)             
 <h3>The team</h3>
 <div class="col-12">
         <img alt="image" class="img-fluid rounded" src="./IMG-20200814-WA0001.jpg">
