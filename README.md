@@ -89,6 +89,7 @@ Graph 6:
 
  {% include comorbidity_importance_with-pneumonia.html %}
  {% include comorbidity_importance_without-pneumonia.html %}
+ <img scr="images/comorbidity_importance_without_pneumonia.html">
 
 <div id='id6' />                
 <h3>The team</h3>
