@@ -56,7 +56,7 @@ One of the questions we asked to make our model was if the virus affects male an
 Here there are two things to notice: the virus has affected more the male population than the females. Second, if we concentrate on the lifetime distribution once infected by the virus we can see that there is no notorious difference. 
 </div>
 
-Graph 4:
+{% include compasiron_distribution_age-sex.html %}
 
 <div style="text-align: justify">In this data, we can see that the quantity of men affected is more. Possibly because men are commonly exposed for some reason. There is no certain way for us to know.</div>
 
