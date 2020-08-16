@@ -60,12 +60,12 @@ Here there are two things to notice: the virus has affected more the male popula
 
 <div style="text-align: justify">In this data, we can see that the quantity of men affected is more. Possibly because men are commonly exposed for some reason. There is no certain way for us to know.</div>
 
-Graph 5:
+{% include days_between_symptoms_and_death.html %}
 
 <div style="text-align: justify"> We already know gender does not matter in relationship with the time of death, but age does matter, mainly to the age range 40-85. This data represents the most part of cases that presented symptoms and went to the hospital.
 We discovered that the time a patient lives after contracting the virus depends on hospital care. Those who Went to the ICU (lighter colour in the graph) lived 15 days, the patients who were on normal care lived 12 days and the ambulatory patients lived 13 days. </div>
 
-Graph 6:
+{% include breakdown_icu.html %}
 
 <div style="text-align: justify">By now we have classified different factor. Now we want to determine which comorbidities (illnesses) will increase the risk of death when infected with COVID-19.</div>
 
