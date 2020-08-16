@@ -40,7 +40,7 @@ Finally, we generated six more graphs that show different and more specific data
 <div style="text-align: justify"> Here we mapped the results obtained from Mexico’s government about COVID-19 patients combined with data from INEGI. 
 To achieve this we created a dataset to make the information more legible so that it has more friendly access in English and Spanish. The dataset is done in Spanish but our work has been translated to English, this way it has more reproducibility.</div>
 
-Graph 1: Cases per state
+{% include new_cases.html %}
 
 <div style="text-align: justify">Here we can see the cases per state distribution, these results can be affected by the sanitary regulations, population density, etc. This allows us to compare the decisions taken by every state and their effectiveness. 
 By deduction, we can see that those states with a high population density but a low number of cases have more effective sanitary regulations, compared to those who have low population density and a higher number of cases.</div>
