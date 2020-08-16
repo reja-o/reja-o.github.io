@@ -89,6 +89,7 @@ All code available <a href="https://github.com/jvelez-s/cdmx_challenge">here</a>
 
 <h4>Model without pneumonia</h4>
 
+<div id='id6' />
 <h3>The team</h3>
 <div class="col-12">
         <img alt="image" class="img-fluid rounded" src="./IMG-20200814-WA0001.jpg">
