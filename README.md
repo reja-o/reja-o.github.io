@@ -86,7 +86,8 @@ Graph 6:
         <h5><strong>Johann Baez</strong></h5>
         
 <h2>Por parte del CdeCMX Challenge</h2>
-
+  
+  
 ## References
 
 - COVID-19 Associated Hospitalization Related to Underlying Medical Conditions. (n.d.). Retrieved from https://www.cdc.gov/coronavirus/2019-ncov/covid-data/investigations-discovery/hospitalization-underlying-medical-conditions.html
