@@ -10,7 +10,7 @@ All code available [here](https://github.com/jvelez-s/cdmx_challenge)
 5. [Results](#id5)
 6. [The team](#id6)
 
-<div id='#id1'>
+<div id='id1'/>
 <h3>Abstract</h3>
 <div style="text-align: justify">The objective of the investigation is to link a list of comorbidities of COVID-19 shown on recent studies that make a person more prone to complications if infected. Using geospatial data to predict and identify which geographic zones have more infections, where are happening and make a prediction of future outbreaks and mortality rates.
 We took the results of a recent investigation with a sample of 177, 133 subjects on May 18th, 220 where it was observed 1, 633 with SARS-CoV-2, and 5,332 deaths to make our calculations. The principal risk factors for lethality in COVID-19 include diabetes, obesity, advanced age and immunosuppression. Those factors conferred an increased risk of hospitalization and possible intubation. 
@@ -89,7 +89,7 @@ All code available <a href="https://github.com/jvelez-s/cdmx_challenge">here</a>
 
 <h4>Model without pneumonia</h4>
 
-<div id='id6' />
+<div id='#id6' />
 <h3>The team</h3>
 <div class="col-12">
         <img alt="image" class="img-fluid rounded" src="./IMG-20200814-WA0001.jpg">
