@@ -72,7 +72,7 @@ Graph 6:
 
  <div id='#id5'>
  <h3>Results</h3>
-All code available [here](https://github.com/jvelez-s/cdmx_challenge)             
+All code available <a href="https://github.com/jvelez-s/cdmx_challenge">here</a>          
 <h3>The team</h3>
 <div class="col-12">
         <img alt="image" class="img-fluid rounded" src="./IMG-20200814-WA0001.jpg">
