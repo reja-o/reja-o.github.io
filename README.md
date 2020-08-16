@@ -11,6 +11,8 @@
 6. [The team](#id6)
 
 
+{% include parallel_categories.html %}
+
 <div id='#id1'>
 <h3>Abstract</h3>
 <div style="text-align: justify">The objective of the investigation is to link a list of comorbidities of COVID-19 shown on recent studies that make a person more prone to complications if infected. Using geospatial data to predict and identify which geographic zones have more infections, where are happening and make a prediction of future outbreaks and mortality rates.
