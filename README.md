@@ -88,7 +88,7 @@ All code available <a href="https://github.com/jvelez-s/cdmx_challenge">here</a>
   
   
 ## References
-
+  
 - COVID-19 Associated Hospitalization Related to Underlying Medical Conditions. (n.d.). Retrieved from https://www.cdc.gov/coronavirus/2019-ncov/covid-data/investigations-discovery/hospitalization-underlying-medical-conditions.html
  
 - COVID-19 Hospitalization and Death by Age. (n.d.). Retrieved from https://www.cdc.gov/coronavirus/2019-ncov/covid-data/investigations-discovery/hospitalization-death-by-age.html
