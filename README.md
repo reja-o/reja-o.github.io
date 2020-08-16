@@ -72,12 +72,22 @@ We discovered that the time a patient lives after contracting the virus depends 
  <div id='#id5'>
  <h3>Results</h3>
 All code available <a href="https://github.com/jvelez-s/cdmx_challenge">here</a>
-
+<h2>Multiple correspondance analysis (MCA)</h2>
+  
 {% include mca_terms.html %}
 {% include mca_individuals.html %}
+
+<h2>Random forest classifier</h2>
+<div style="text-align: justify">"Negative" and "Positive" are aprt of the dataset used for the algorithm. Positive COVID-19 patients vs. negative ones to see if there was any difference that could classify them.</div>
+ 
 {% include parallel_categories.html %}
-{% include comorbidity_importance_with-pneumonia.html %}
+{% include comorbidity_importance_with-pneumonia.html %}  
+
+<h4>Model with pneumonia</h4>
+
 {% include comorbidity_importance_without-pneumonia.html %}
+
+<h4>Model without pneumonia</h4>
 
 <h3>The team</h3>
 <div class="col-12">
