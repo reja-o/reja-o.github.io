@@ -93,7 +93,7 @@ All code available <a href="https://github.com/jvelez-s/cdmx_challenge">here</a>
 <h2>Por parte del CdeCMX Challenge</h2>
   
   
-## References
+<h2>References</h2>  
   
 - COVID-19 Associated Hospitalization Related to Underlying Medical Conditions. (n.d.). Retrieved from https://www.cdc.gov/coronavirus/2019-ncov/covid-data/investigations-discovery/hospitalization-underlying-medical-conditions.html
  
