@@ -93,7 +93,6 @@ Graph 6:
 <div id='id6' />                
 <h3>The team</h3>
 <div class="col-12">
-        <img alt="image" class="img-fluid rounded" src="./IMG-20200814-WA0001.jpg">
         <h5><strong>Regina Olvera</strong></h5>
         
  <div class="col-12">     
