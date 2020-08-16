@@ -85,8 +85,8 @@ Graph 6:
  <div id='#id5'>
  <h3>Results</h3>
 
-{% include comorbidity_importance_with-pneumonia.html %}
-{% include comorbidity_importance_without-pneumonia.html %}
+ {% include comorbidity_importance_with-pneumonia.html %}
+ {% include comorbidity_importance_without-pneumonia.html %}
 
 <div id='id6' />                
 <h3>The team</h3>
