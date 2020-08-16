@@ -71,7 +71,14 @@ We discovered that the time a patient lives after contracting the virus depends 
 
  <div id='#id5'>
  <h3>Results</h3>
-All code available <a href="https://github.com/jvelez-s/cdmx_challenge">here</a>          
+All code available <a href="https://github.com/jvelez-s/cdmx_challenge">here</a>
+
+{% include mca_terms.html %}
+{% include mca_individuals.html %}
+{% include parallel_categories.html %}
+{% include comorbidity_importance_with-pneumonia.html %}
+{% include comorbidity_importance_without-pneumonia.html %}
+
 <h3>The team</h3>
 <div class="col-12">
         <img alt="image" class="img-fluid rounded" src="./IMG-20200814-WA0001.jpg">
