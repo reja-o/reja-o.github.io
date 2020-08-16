@@ -13,7 +13,7 @@ All code available [here](https://github.com/jvelez-s/cdmx_challenge).
 <div id='#id1'>
 <h3>Abstract</h3>
 <div style="text-align: justify">The objective of the investigation is to link a list of comorbidities of COVID-19 shown on recent studies that make a person more prone to complications if infected. Using geospatial data to predict and identify which geographic zones have more infections, where are happening and make a prediction of future outbreaks and mortality rates.
-We took the results of a recent investigation with a sample of 177, 133 subjects on May 18th, 220 where it was observed 1, 633 with SARS-CoV-2, and 5,332 deaths to make our calculations. The principal risk factors for lethality in COVID-19 include diabetes, obesity, advanced age and immunosuppression. Those factors conferred an increased risk of hospitalization and possible intubation. 
+We took the results of a recent investigation with a sample of 177, 133 subjects on May 18th, 220 where it was observed 1, 633 with SARS-CoV-2, and 5,332 deaths to make our calculations. The principal risk factors for lethality in COVID-19 include diabetes, obesity, advanced age and immunosuppression. Those factors conferred an increased risk of hospitalization and possible intubation.
 </div>
 
 <div id='id2' />
@@ -39,7 +39,6 @@ Finally, we generated six more graphs that show different and more specific data
 <!-- {% include municipalities_positive_cases.jpg %} -->
 
 Explanation:
-
 <div style="text-align: justify"> Here we mapped the results obtained from Mexico’s government about COVID-19 patients combined with data from INEGI.
 To achieve this we created a dataset to make the information more legible so that it has more friendly access in English and Spanish. The dataset is done in Spanish but our work has been translated to English, this way it has more reproducibility.</div>
 
@@ -59,7 +58,7 @@ This graph shows the accumulation of positive COVID-19 cases since the first cas
 
 One of the questions we asked to make our model was if the virus affects male and females equally. The next graph answers this.</div>
 <div style="text-align: justify"> In the column on the left, we can see the number of deceased patients and in the right the ones that are still alive. The color blue represents the females and the red represents the males.
-Here there are two things to notice: the virus has affected more the male population than the females. Second, if we concentrate on the lifetime distribution once infected by the virus we can see that there is no notorious difference. 
+Here there are two things to notice: the virus has affected more the male population than the females. Second, if we concentrate on the lifetime distribution once infected by the virus we can see that there is no notorious difference.
 </div>
 
 <!-- {% include compasiron_distribution_age-sex.html %} -->
@@ -78,7 +77,6 @@ We discovered that the time a patient lives after contracting the virus depends 
 <!-- {% include breakdown_icu.html %} -->
 
 Graph 6:
-
 <div style="text-align: justify">By now we have classified different factor. Now we want to determine which comorbidities (illnesses) will increase the risk of death when infected with COVID-19.</div>
 
 <!-- {% include mca_terms.html %} -->
@@ -98,10 +96,10 @@ Graph 6:
 
  <div class="col-12">     
         <h5><strong>Jesús Vélez</strong></h5>
-       
+
 <div class="col-12">     
         <h5><strong>Johann Baez</strong></h5>
-        
+
 <h2>Por parte del CdeCMX Challenge</h2>
 
 - COVID-19 Associated Hospitalization Related to Underlying Medical Conditions. (n.d.). Retrieved from https://www.cdc.gov/coronavirus/2019-ncov/covid-data/investigations-discovery/hospitalization-underlying-medical-conditions.html
