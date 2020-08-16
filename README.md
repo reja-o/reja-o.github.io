@@ -1,5 +1,7 @@
 <h1>Between death and life; brief inspection of SARS-CoV-2 in Mexico</h1>
 
+All code available [here](https://github.com/jvelez-s/cdmx_challenge)
+
 <h3><i>Table of contents</i></h3>
 1. [Abstract](#id1)
 2. [Introduction](#id2)
