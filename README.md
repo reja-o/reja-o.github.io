@@ -31,14 +31,14 @@ After we collected the data, organized and selected it, we started to write the 
 <div style="text-align: justify"> We live in Mexico and we believe that there is not enough information about COVID-19 so we wanted to collaborate and aport information using the already existing data about coronavirus. 
 COVID-19 is a virus that initiated in China in December 2019. The virus travelled fast and ended up in a global pandemic. The virus is easily spread by the air and contaminated surfaces. It is highly contagious and on average it has a high death rate.</div>  
 
-{% include new_cases.html %}
+<!-- {% include new_cases.html %} -->
 
 <div id='id4' />
 <h3>How Did we did it?</h3>
 <div style="text-align: justify"> First, we recollected geospatial data from INEGI, like sex, age, hospital of admission, etc. We combined them with the information obtained via Mexico’s government and different internet sources that together could take us to identify the main risk factors that complicate the patients with COVID-19. This all with the purpose that the two sources combined helped us generate a heatmap of Mexico. The map shows the current situation that we are living in Mexico, the death rate, the number of cases (ambulatory, confirmed and deceased), etc.
 Finally, we generated six more graphs that show different and more specific data about the condition of the population in the country.</div>   
 
-{% include municipalities_positive_cases.jpg %}
+<!-- {% include municipalities_positive_cases.jpg %} -->
 
 Explanation:
 <div style="text-align: justify"> Here we mapped the results obtained from Mexico’s government about COVID-19 patients combined with data from INEGI. 
@@ -46,7 +46,7 @@ To achieve this we created a dataset to make the information more legible so tha
 
 Graph 1: Cases per state
 
-{% include states_positive_cases.jpg %}
+<!-- {% include states_positive_cases.jpg %} -->
 
 <div style="text-align: justify">Here we can see the cases per state distribution, these results can be affected by the sanitary regulations, population density, etc. This allows us to compare the decisions taken by every state and their effectiveness. 
 By deduction, we can see that those states with a high population density but a low number of cases have more effective sanitary regulations, compared to those who have low population density and a higher number of cases.</div>
@@ -55,7 +55,7 @@ By deduction, we can see that those states with a high population density but a 
 <div style="text-align: justify">Number of accumulated cases since the start of the pandemic.
 This graph shows the accumulation of positive COVID-19 cases since the first case was detected in each state of Mexico.</div>
 
-{% include cumulative_cases.html %}
+<!-- {% include cumulative_cases.html %}-->
 
 <div style="text-align: justify"> Graph 3:
  
@@ -64,32 +64,31 @@ One of the questions we asked to make our model was if the virus affects male an
 Here there are two things to notice: the virus has affected more the male population than the females. Second, if we concentrate on the lifetime distribution once infected by the virus we can see that there is no notorious difference. 
 </div>
 
-{% include compasiron_distribution_age-sex.html %}
+<!-- {% include compasiron_distribution_age-sex.html %} -->
 
 Graph 4:
 <div style="text-align: justify">In this data, we can see that the quantity of men affected is more. Possibly because men are commonly exposed for some reason. There is no certain way for us to know.</div>
 
-{% include days_between_symptoms_and_death.html %}
+<!-- {% include days_between_symptoms_and_death.html %} -->
 
 Graph 5:
 <div style="text-align: justify"> We already know gender does not matter in relationship with the time of death, but age does matter, mainly to the age range 40-85. This data represents the most part of cases that presented symptoms and went to the hospital.
 We discovered that the time a patient lives after contracting the virus depends on hospital care. Those who Went to the ICU (lighter colour in the graph) lived 15 days, the patients who were on normal care lived 12 days and the ambulatory patients lived 13 days. </div>
 
-{% include breakdown_icu.html %}
+<!-- {% include breakdown_icu.html %} -->
 
 Graph 6: 
 <div style="text-align: justify">By now we have classified different factor. Now we want to determine which comorbidities (illnesses) will increase the risk of death when infected with COVID-19.</div>
 
-{% include mca_terms.html %}
-{% include mca_individuals.html %}
-{% include parallel_categories.html %}
+<!-- {% include mca_terms.html %} -->
+<!-- {% include mca_individuals.html %} -->
+<!-- {% include parallel_categories.html %} -->
 
  <div id='#id5'>
  <h3>Results</h3>
 
- {% include comorbidity_importance_with-pneumonia.html %}
- {% include comorbidity_importance_without-pneumonia.html %}
-
+ <!-- {% include comorbidity_importance_with-pneumonia.html %} -->
+ <!-- {% include comorbidity_importance_without-pneumonia.html %} -->
 
 <div id='id6' />                
 <h3>The team</h3>
