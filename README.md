@@ -1,5 +1,7 @@
 <h1>Between death and life; brief inspection of SARS-CoV-2 in Mexico</h1>
 
+All code available [here](https://github.com/jvelez-s/cdmx_challenge).
+
 <h3><i>Table of contents</i></h3>
 1. [Abstract](#id1)
 2. [Introduction](#id2)
@@ -100,3 +102,23 @@ Graph 6:
         <h5><strong>Johann Baez</strong></h5>
         
 <h2>Por parte del CdeCMX Challenge</h2>
+
+- COVID-19 Associated Hospitalization Related to Underlying Medical Conditions. (n.d.). Retrieved from https://www.cdc.gov/coronavirus/2019-ncov/covid-data/investigations-discovery/hospitalization-underlying-medical-conditions.html
+ 
+- COVID-19 Hospitalization and Death by Age. (n.d.). Retrieved from https://www.cdc.gov/coronavirus/2019-ncov/covid-data/investigations-discovery/hospitalization-death-by-age.html
+ 
+- COVID-19 Hospitalization and Death by Race/Ethnicity. (n.d.). Retrieved from https://www.cdc.gov/coronavirus/2019-ncov/covid-data/investigations-discovery/hospitalization-death-by-race-ethnicity.html
+ 
+- Coronavirus: COVID-19. (n.d.). Retrieved from https://www.saludcastillayleon.es/es/farmacia-medicamentos/noticias/coronavirus-covid-19
+ 
+- Coronavirus: ¿cuánto tiempo lleva recuperarse del Covid-19? (2020, April 20). Retrieved from https://www.eluniversal.com.mx/mundo/coronavirus-cuanto-tiempo-lleva-recuperarse-del-covid-19
+ 
+- Giannouchos, T., Sussman, R., Mier, J. M., Poulas, K., & Farsalinos, K. (2020, January 01). Characteristics and risk factors for COVID-19 diagnosis and adverse outcomes in Mexico: An analysis of 89,756 laboratory-confirmed COVID-19 cases. Retrieved from https://www.medrxiv.org/content/10.1101/2020.06.04.20122481v2.full.pdf html
+ 
+- Older Adults and COVID-19. (n.d.). Retrieved from https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/older-adults.html
+ 
+- Preguntas y respuestas sobre la enfermedad por coronavirus (COVID-19). (n.d.). Retrieved from https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public/q-a-coronaviruses#:~:text=sintomas
+ 
+- Zheng, Y., Ma, Y., Zhang, J., & Xie, X. (2020, March 05). COVID-19 and the cardiovascular system. Retrieved from https://www.nature.com/articles/s41569-020-0360-5?fbclid=IwAR3TjvxiEtYQqNkpsPuEu
+ 
+- Bello-Chavolla, O. Y., Bahena-Lopez, J. P., Antonio-Villa, N. E., Vargas-Vázquez, A., González-Díaz, A., Márquez-Salinas, A., . . . Aguilar-Salinas, C. A. (2020, January 01). Predicting mortality due to SARS-CoV-2: A mechanistic score relating obesity and diabetes to COVID-19 outcomes in Mexico. Retrieved from https://www.medrxiv.org/content/10.1101/2020.04.20.20072223v4
